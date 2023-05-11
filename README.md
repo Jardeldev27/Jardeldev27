@@ -2,7 +2,7 @@
 - 👀 I’m interested in to Develop
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on Full Stack Dev
-- 📫 How to reach me jardel0101010@gmail.com
+- 📫 How to reach me jardel0101010@gmail.com or +5597984597573
 
 <!---
 Jardeldev27/Jardeldev27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
