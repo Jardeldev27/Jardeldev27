@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Jardeldev27
-- 👀 I’m interested in to Develop
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on Full Stack Dev
-- 📫 How to reach me jardel0101010@gmail.com or +5597984597573
-
-<!---
-Jardeldev27/Jardeldev27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+const introductions = [
+  "Hey there! My name is %s and I'm a full-stack developer with a passion for coding.",
+  ];
+const aboutMe = [
+    "Aside from coding, I also have a passion for Math.",
+];
+function generateIntroduction(name) {
+  const introduction = introductions[Math.floor(Math.random() * introductions.length)];
+  return introduction.replace('%s', name);
+}
+function generateAboutMe() {
+  return aboutMe[Math.floor(Math.random() * aboutMe.length)];
+}
+const name = "Jardel";
+const introduction = generateIntroduction(name);
+const aboutMeMessage = generateAboutMe();
+console.log(introduction);
+console.log(aboutMeMessage);
