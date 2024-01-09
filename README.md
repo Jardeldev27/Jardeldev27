@@ -1,4 +1,5 @@
-### My Skills
+Hello, I'm Jardel, a Software Engineer with a profound love for turning ideas into functional, efficient code. Embracing a perpetual learning mindset, my GitHub profile is a reflection of my dedication to the craft of software engineering. Join me as I navigate the intricate world of technology, one commit at a time.
+# My Skills
 
 # Language & Technologies
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
