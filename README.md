@@ -1,3 +1,5 @@
+### My Skills
+
 # Language & Technologies
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
@@ -6,7 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
-![SQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)&nbsp;
+![Java](https://img.shields.io/badge/Java-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)&nbsp;
 
 ## IDE
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
@@ -14,16 +16,16 @@
 ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)&nbsp;
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
-### Database
+## Database
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)&nbsp;
 
-##### Community
+## Community
 ![HACKERCLUB](https://img.shields.io/badge/Hack%20Club-EC3750?style=for-the-badge&logo=Hack%20Club&logoColor=white)&nbsp;
 ![TOPCODER](https://img.shields.io/badge/Topcoder-29A7DF?style=for-the-badge&logo=Topcoder&logoColor=white)&nbsp;
 
 
-#### Contact
+## Contact
 ![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;
 ![MESSNGER](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)&nbsp;
 ![MICROSOFT](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)&nbsp;
