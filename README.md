@@ -1,43 +1,31 @@
-# Frontend Boilerplate With ReactTS
-
+# Language & Technologies
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
+![SQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)&nbsp;
+
+## IDE
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
+![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)&nbsp;
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+
+### Database
+![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)&nbsp;
+
+##### Community
+![HACKERCLUB](https://img.shields.io/badge/Hack%20Club-EC3750?style=for-the-badge&logo=Hack%20Club&logoColor=white)&nbsp;
+![TOPCODER](https://img.shields.io/badge/Topcoder-29A7DF?style=for-the-badge&logo=Topcoder&logoColor=white)&nbsp;
 
 
-This is a ReactTS-based web application boilerplate.
-
-### Architecture
-
-The entire project is standardized and basically divided into, but not restricted, in the bellow main folders:
-- `src`: the core of the application. Stores the main files and multiple subfolders.
-    - `assets`: store static files, including images and vectors.
-    - `components`: atomified (by responsability, not code sizing) folder with the entire application components
-        - `atoms`
-        - `molecules`
-        - `organisms`
-    - `contexts`: all contexts, including its related parsers, types and others, are stored by folders. Each folder, represents an context. The general files are stored in root but should be avoided.
-    - `hooks`: hooks are abstractions of over each context, with main function of export context desired resources. Each hook is represented by a file.
-    - `pages`: literally store the application pages. The indexes files of this folder should be directly called into router.
-    - `routers`: responsible for store the main router file and its helpers.
-    - `services`: external resources should stored here, including error or event tracking ones.
-    - `utils`: general utility resources used by the entire app.
-
-### Tips to Begin
-
-- There are an test flow of atomic designed components: organism, molecule and atom. 
-- There is an context and hook named as "Test" that shows how the contexts should be used. Every request, major parsers and types should be inside of the context. The hook is only an abstraction to use the context resources in an better performing way.
-- To create and new context and use its hook in an page, remember to add this page's route, declared in the `main-router.tsx` file as children of context provider (created in the context file). 
-
-### Running Local
-
-1. Install the dependencies: `yarn`;
-2. Create environtment variables file (`.env`) using the `.env.template` file as template.
-3. Execute `yarn dev`
-
-The project will be available at `http://localhost:3000`
-
-
-## Others
-
-- To identify unused or unresolved imports, just run `yarn scan-dead-code`.
+#### Contact
+![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;
+![MESSNGER](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)&nbsp;
+![MICROSOFT](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)&nbsp;
+![TELEGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)&nbsp;
+![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)&nbsp;
